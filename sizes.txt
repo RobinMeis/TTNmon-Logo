@@ -1,0 +1,4 @@
+Gateway circle
+  - Inner circle 440x440
+  - Outer circle 500x500
+  - Border 30px
